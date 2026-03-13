@@ -2,7 +2,7 @@ import { MapPin, Navigation } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const LocationSection = () => {
-  const mapUrl = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3557.8!2d75.79!3d26.91!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjbCsDU0JzM2LjAiTiA3NcKwNDcnMjQuMCJF!5e0!3m2!1sen!2sin!4v1234567890";
+  const mapUrl = "https://maps.google.com/maps?q=L1B+Krishna+Marg+C+Scheme+Jaipur+Rajasthan+302001+India&t=&z=15&ie=UTF8&iwloc=&output=embed";
   const directionsUrl = "https://www.google.com/maps/dir/?api=1&destination=L1B+Krishna+Marg+C+Scheme+Jaipur+Rajasthan+302001";
 
   return (
