@@ -38,7 +38,7 @@ const HeroSection = () => {
               </Button>
             </a>
             <a href="#contact">
-              <Button size="lg" variant="outline" className="border-2 border-primary-foreground text-primary-foreground hover:bg-primary-foreground/20 rounded-full px-8 py-6 text-lg font-body font-bold">
+              <Button size="lg" variant="secondary" className="border border-accent/40 bg-card/95 text-foreground hover:bg-card rounded-full px-8 py-6 text-lg font-body font-bold shadow-lg">
                 Contact Now
               </Button>
             </a>
