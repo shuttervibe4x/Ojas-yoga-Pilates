@@ -1,7 +1,7 @@
 import { Activity, Brain, Smile, Eye, HeartPulse } from "lucide-react";
 
 const benefits = [
-  { icon: Stretch, title: "Improves Flexibility & Strength", description: "Build a stronger, more supple body with consistent practice." },
+  { icon: Activity, title: "Improves Flexibility & Strength", description: "Build a stronger, more supple body with consistent practice." },
   { icon: Smile, title: "Reduces Stress & Anxiety", description: "Find calm and emotional balance through mindful movement." },
   { icon: HeartPulse, title: "Enhances Posture & Balance", description: "Correct alignment issues and improve your body awareness." },
   { icon: Brain, title: "Boosts Mental Clarity", description: "Sharpen focus and enhance cognitive function through meditation." },
