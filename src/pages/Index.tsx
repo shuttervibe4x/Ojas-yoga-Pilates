@@ -4,6 +4,7 @@ import AboutSection from "@/components/AboutSection";
 import ServicesSection from "@/components/ServicesSection";
 import BenefitsSection from "@/components/BenefitsSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
+import GallerySection from "@/components/GallerySection";
 import BookingSection from "@/components/BookingSection";
 import LocationSection from "@/components/LocationSection";
 import ContactSection from "@/components/ContactSection";
