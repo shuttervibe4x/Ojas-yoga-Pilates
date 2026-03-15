@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-4 gap-8 mb-10">
           <div>
-            <h3 className="font-heading text-xl font-bold text-primary-foreground mb-4">Ojas Yoga & Pilates</h3>
+            <h3 className="font-heading text-xl font-bold text-primary-foreground mb-4">Yoga by Shree Maya</h3>
             <p className="font-body text-sm text-primary-foreground/60 leading-relaxed">
               Transform your mind, body, and soul through expert-guided yoga and meditation.
             </p>
@@ -37,7 +37,7 @@ const Footer = () => {
         </div>
         <div className="border-t border-primary-foreground/10 pt-6 text-center">
           <p className="font-body text-sm text-primary-foreground/40">
-            © {new Date().getFullYear()} Ojas Yoga & Pilates. All rights reserved.
+            © {new Date().getFullYear()} Yoga by Shree Maya. All rights reserved.
           </p>
         </div>
       </div>
