@@ -16,7 +16,7 @@ const AboutSection = () => {
           <AnimatedSection>
             <p className="text-primary font-body font-bold uppercase tracking-widest text-sm mb-4">About</p>
             <h2 className="font-heading text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-6">
-              Meet Yoga by Shree Maya
+              Meet Ojas Yoga Pilates
             </h2>
             <p className="font-body text-lg text-muted-foreground leading-relaxed mb-12 max-w-2xl mx-auto">
               Ojas yoga & Pilates is an experienced yoga instructor who has dedicated her life to helping people achieve physical health, mental clarity, and emotional well-being. With deep knowledge of ancient yogic traditions and modern wellness practices, her mission is to guide students toward healthier, stress-free lives through the transformative power of yoga.

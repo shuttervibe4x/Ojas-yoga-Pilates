@@ -25,7 +25,7 @@ const LocationSection = () => {
                   <MapPin className="w-6 h-6 text-accent" />
                 </div>
                 <div>
-                  <h3 className="font-heading text-xl font-bold text-foreground mb-2">Yoga by Shree Maya</h3>
+                  <h3 className="font-heading text-xl font-bold text-foreground mb-2">Yoga by Ojas Yoga Pilates</h3>
                   <p className="font-body text-muted-foreground leading-relaxed">Jaipur<br />Rajasthan 302001<br />India</p>
                 </div>
               </div>

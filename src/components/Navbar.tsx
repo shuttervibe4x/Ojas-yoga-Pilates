@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/90 backdrop-blur-md border-b border-border">
       <div className="container mx-auto px-4 flex items-center justify-between h-16 md:h-20">
         <a href="#home" className="font-heading text-xl md:text-2xl font-bold text-accent">
-       Shree Maya
+       Ojas Yoga Pilates
         </a>
 
         {/* Desktop */}
